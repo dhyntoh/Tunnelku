@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NetMod App</string>
+    <string name="request_url">Request URL</string>
+    <string name="request_method">Method</string>
+    <string name="request_body">Request Body</string>
+    <string name="send_request">Send Request</string>
+    <string name="response">Response</string>
+    <string name="headers">Headers</string>
+    <string name="add_header">Add Header</string>
+    <string name="status">Status</string>
+    <string name="time">Time</string>
+    <string name="size">Size</string>
+    <string name="http_custom">HTTP Custom</string>
+    <string name="netmod_features">NetMod Features</string>
+    <string name="futuristic_ui">Futuristic UI</string>
+    <string name="network_tools">Network Tools</string>
+</resources>
