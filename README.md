@@ -16,8 +16,6 @@ This is a modern Android application that provides HTTP request functionality si
 
 - **Kotlin**: Modern Android development language
 - **Material Design Components**: For beautiful UI elements
-- **Gradle (v8.5)**: Build system with Android Gradle Plugin 8.2.0
-- **Kotlin Version**: 1.9.20
 - **OkHttp**: For efficient HTTP networking
 - **RecyclerView**: For dynamic header management
 - **ConstraintLayout**: For flexible layouts
@@ -49,30 +47,11 @@ app/
 
 ## Setup Instructions
 
-1. Open Android Studio Hedgehog (2023.1.1) or later
+1. Open Android Studio
 2. Select "Open an existing Android Studio project"
 3. Navigate to the project directory
 4. Wait for Gradle sync to complete
 5. Build and run the application
-
-## Dependencies
-
-- androidx.core:core-ktx:1.12.0
-- androidx.appcompat:appcompat:1.6.2
-- com.google.android.material:material:1.11.0
-- androidx.constraintlayout:constraintlayout:2.1.4
-- androidx.lifecycle:lifecycle-runtime-ktx:2.7.0
-- com.squareup.okhttp3:okhttp:4.12.0
-- com.squareup.retrofit2:retrofit:2.11.0
-- com.squareup.retrofit2:converter-gson:2.11.0
-
-## Requirements
-
-- Android Studio Hedgehog (2023.1.1) or later
-- Android SDK 34 (compileSdk)
-- Minimum SDK version 24
-- Java 17 or later
-- Kotlin 1.9.20 or later
 
 ## Permissions
 
